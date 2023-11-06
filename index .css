@@ -55,6 +55,11 @@ h3{
 color: rgb(34, 12, 227);
 line-height: 5px;
 }
+#time{
+margin-left:30px;
+}
+#contact{
+margin-left:30px;
 button{
 background-color: rgb(223, 10, 10);
 color: rgb(33, 12, 192);
